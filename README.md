@@ -1,5 +1,5 @@
 
-photo 라이브러리 (https://github.com/connors/photon)에서 electron 관련 예제코드를 수정
+Photon 0.1.2 라이브러리 배포판(https://github.com/connors/photon)에서 electron 관련 예제코드를 수정
 
 
 - require('app') 호출이 require('electron').app 으로 변경되어 수정
